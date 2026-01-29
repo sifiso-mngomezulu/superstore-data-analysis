@@ -65,7 +65,7 @@ GROUP BY Month
 ORDER BY Month;
 All SQL queries used in this project are stored in the sql/queries.sql file.
 
-🔹 Step 4: Power BI Dashboard
+##🔹 Step 4: Power BI Dashboard
 Data Model
 
 Source data imported from cleaned CSV / SQL outputs
@@ -106,7 +106,7 @@ Business-focused KPIs
 
 Clear storytelling for non-technical stakeholders
 
-📊 Key Insights
+## 📊 Key Insights
 
 Technology generates the highest sales, but not always the highest profit margin
 
@@ -116,7 +116,7 @@ Discounts have a noticeable negative impact on profitability
 
 Regional performance varies significantly, indicating operational inefficiencies
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Re-evaluate discount strategies for loss-making sub-categories
 
@@ -126,7 +126,7 @@ Investigate operational costs in underperforming regions
 
 Use profit margin rather than sales volume as a primary performance metric
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Excel – Data cleaning, validation, and exploratory analysis
 
